@@ -25,7 +25,7 @@
     "cheerio": "^1.0.0-rc.3",
     "discord.js": "^11.5.1",
     "enmap": "^5.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "lodash": "^4.17.15",
     "lowdb": "^1.0.0",
